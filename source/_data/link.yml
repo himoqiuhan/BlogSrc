@@ -1,0 +1,33 @@
+- class_name: 朋友们
+  flink_style: flexcard
+  link_list:
+    - name: 紫地丁
+      link: https://purpleditine.top/
+      avatar: https://qiuhanblog-imgsubmit.oss-cn-beijing.aliyuncs.com/img/20230907164929.png
+      descr: 游戏开发狂热爱好者
+      siteshot: 
+
+    - name: 徽墨
+      link: https://hmxs.games/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303231227575.jpg
+      descr: 一些个卷王朋友
+      siteshot: 
+
+    - name: Heskey0
+      link: https://heskey0.github.io/
+      avatar: https://qiuhanblog-imgsubmit.oss-cn-beijing.aliyuncs.com/img/20230907192316.png
+      descr: 图形学大佬
+      siteshot: 
+
+    - name: 哲皇
+      link: https://1keven1.github.io/
+      avatar: https://gitcode.net/qq_40502821/blogimg/-/raw/master/Blog/Avatar.jpg
+      descr: 游技の神
+      siteshot: 
+      
+    - name: 曾經、
+      link: https://www.everlovegames.cn/
+      avatar: https://qiuhanblog-imgsubmit.oss-cn-beijing.aliyuncs.com/img/5525e8b97a29ba4b3237deee3c875ecd_1.jpg
+      descr: 策划大佬
+      siteshot: 
+      

@@ -1,0 +1,15 @@
+top:
+  - class_name: card_portfolio
+    id_name:
+    name: 作品集
+    icon:
+    order: 0
+    html:
+
+# bottom:
+#   - class_name: card_portfolio
+#     id_name:
+#     name: 作品集
+#     icon:
+#     order: 0
+#     html:
